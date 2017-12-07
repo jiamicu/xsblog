@@ -1,7 +1,7 @@
 ---
 title: docker更改启动目录
 date: 2017-12-04 18:34:29
-tags:
+tags: docker linux
 ---
 You can change Docker's storage base directory (where container and images go) using the -g option when starting the Docker daemon.
 
